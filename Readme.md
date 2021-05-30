@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Кристина Назарова](https://up.htmlacademy.ru/javascript/23/user/1662671).
-* Наставник: `Артем Рудов`.
+* Студент: [Кристина Назарова](https://htmlacademy.ru/profile/id1662671).
+* Наставник: [Артём Рудов](https://htmlacademy.ru/profile/artrudov).
 
 ---
 
